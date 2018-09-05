@@ -1,4 +1,4 @@
-# java-grpc-server
+# gRPC Server in Java
 Simple gRPC server written in Java using Maven.
 
 ### Running the server
