@@ -49,9 +49,9 @@
                 <groupId>com.heroku.sdk</groupId>
                 <artifactId>heroku-maven-plugin</artifactId>
                 <configuration>
-                    <appName>Grpc Demo</appName>
+                    <appName>warm-oasis-99918</appName>
                     <processTypes>
-                        <web>java -jar -cp target/classes:target/dependency/* Main</web>
+                        <web>java -Dserver.port=8080 -jar target/molten-grpc-server-1.0-SNAPSHOT</web>
                     </processTypes>
                 </configuration>
             </plugin>
