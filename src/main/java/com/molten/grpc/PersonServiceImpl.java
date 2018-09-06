@@ -1,8 +1,6 @@
 package com.molten.grpc;
 
-import com.molten.androidgrpcdemo.Empty;
-import com.molten.androidgrpcdemo.Person;
-import com.molten.androidgrpcdemo.PersonServiceGrpc;
+
 import io.grpc.stub.StreamObserver;
 
 public class PersonServiceImpl extends PersonServiceGrpc.PersonServiceImplBase {
