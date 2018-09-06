@@ -1,0 +1,1 @@
+web: java -jar classes/artifacts/molten_grpc_server_jar/molten-grpc-server.jar
