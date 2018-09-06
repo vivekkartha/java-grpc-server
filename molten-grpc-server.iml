@@ -12,6 +12,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Bundled Protobuf Distribution" level="application" />
     <orderEntry type="library" name="Maven: io.grpc:grpc-netty:1.7.0" level="project" />
     <orderEntry type="library" name="Maven: io.grpc:grpc-core:1.7.0" level="project" />
     <orderEntry type="library" name="Maven: io.grpc:grpc-context:1.7.0" level="project" />
